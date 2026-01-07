@@ -1,7 +1,8 @@
 # ExTerrapy
 
 <img width="806" height="422" alt="image" src="https://github.com/user-attachments/assets/2a4515ec-bc8d-425d-b341-9ce1ef7dfbad" />
-<img width="806" height="462" alt="image" src="https://github.com/user-attachments/assets/eef081a0-f6f1-447e-bf53-d352ebb59fed" />
+<img width="806" height="462" alt="image" src="https://github.com/user-attachments/assets/93516f24-a22d-4e46-9d8f-feae5051f390" />
+
 
 
 
