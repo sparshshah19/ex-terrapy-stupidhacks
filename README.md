@@ -15,13 +15,6 @@ ExTerrapy allows users to:
 - Simulate ex-style replies to practice communication in a controlled environment
 - Continue multi-turn conversations with session-aware context
 
-## Key Features
-- **Structured conversation flow** that guides users step-by-step
-- **Context-aware responses** generated from user input and screenshots
-- **Session-based interactions** to maintain conversational continuity
-- **Rate limiting and API key protection** to prevent abuse
-- **Responsive interface** for a smooth user experience across devices
-
 ## Tech Stack
 
 **Frontend**
@@ -35,7 +28,3 @@ ExTerrapy allows users to:
 
 **Deployment**
 - Vercel (frontend)
-
-## How it works
-
-
