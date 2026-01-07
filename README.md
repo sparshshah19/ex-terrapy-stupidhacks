@@ -1,7 +1,8 @@
 # ExTerrapy
 
 <img width="806" height="422" alt="image" src="https://github.com/user-attachments/assets/2a4515ec-bc8d-425d-b341-9ce1ef7dfbad" />
-<img width="806" height="422" alt="image" src="https://github.com/user-attachments/assets/9d10c5ef-5213-4940-a356-9096f79c652c" />
+<img width="806" height="462" alt="image" src="https://github.com/user-attachments/assets/eef081a0-f6f1-447e-bf53-d352ebb59fed" />
+
 
 
 An AI-powered relationship reflection web app that guides users through structured conversations to help them think clearly about relationship situations, including optional simulated responses based on provided context.
